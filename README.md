@@ -4,6 +4,8 @@ https://wiki.recessim.com/view/Gr-smart_meters_Setup_Guide
 Download Ubuntu 20.04 iso - 
 Use Live or Install into Virtualbox (2GB mem, 60GB hdd)
 
+
+
 RTL-SDR - 
 https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
 
@@ -15,7 +17,8 @@ http://manpages.ubuntu.com/manpages/trusty/man1/rtl_test.1.html
 https://www.scivision.dev/rtlsdr-quickstart-linux/
 https://osmocom.org/projects/rtl-sdr/wiki#Gnuradio-Source
 
-Gnuradio Companion - 
+Gnuradio Companion -
+https://wiki.gnuradio.org/index.php/UbuntuInstall
 If GRC throws Python mod not found error - https://wiki.gnuradio.org/index.php/ModuleNotFoundError
 
 https://reveng.sourceforge.io/
