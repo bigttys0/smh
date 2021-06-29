@@ -19,7 +19,8 @@ https://osmocom.org/projects/rtl-sdr/wiki#Gnuradio-Source
 
 Gnuradio Companion -
 https://wiki.gnuradio.org/index.php/UbuntuInstall
-If GRC throws Python mod not found error - https://wiki.gnuradio.org/index.php/ModuleNotFoundError
+https://wiki.gnuradio.org/index.php/InstallingGR#From_Source
+**If GRC throws Python mod not found error - https://wiki.gnuradio.org/index.php/ModuleNotFoundError
 
 https://reveng.sourceforge.io/
 https://reveng.sourceforge.io/readme.htm
